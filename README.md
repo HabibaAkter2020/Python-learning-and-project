@@ -1,2 +1,2 @@
 # Python leaning and project
-python data visualization
+Data visualization with Python
